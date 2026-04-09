@@ -172,7 +172,8 @@ export default function App() {
                 Get in touch
               </a>
               <a
-                href="https://linkedin.com/in/shreya-panwar"
+                href="https://www.linkedin.com/in/shreya-panwar-105134269/"
+
                 target="_blank"
                 rel="noreferrer"
                 className="px-6 py-3 rounded-lg border border-white/10 hover:border-white/20 text-slate-300 hover:text-white font-semibold text-sm transition-all"
@@ -343,7 +344,7 @@ export default function App() {
                 shreyapanwar051@gmail.com
               </a>
               <a
-                href="https://linkedin.com/in/shreya-panwar"
+                href="https://www.linkedin.com/in/shreya-panwar-105134269/"
                 target="_blank"
                 rel="noreferrer"
                 className="px-6 py-3 rounded-lg border border-white/10 hover:border-white/20 text-slate-300 hover:text-white text-sm font-semibold transition-all"
@@ -351,7 +352,7 @@ export default function App() {
                 LinkedIn ↗
               </a>
               <a
-                href="https://github.com/shreyapanwar"
+                href="https://github.com/shreya11111111"
                 target="_blank"
                 rel="noreferrer"
                 className="px-6 py-3 rounded-lg border border-white/10 hover:border-white/20 text-slate-300 hover:text-white text-sm font-semibold transition-all"
